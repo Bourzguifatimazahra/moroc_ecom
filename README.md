@@ -1,18 +1,9 @@
-#Analyse E-Commerce Maroc - Pipeline Complet de Nettoyage et d'Analyse
+# Analyse E-Commerce Maroc - Pipeline Complet de Nettoyage et d'Analyse
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-orange)
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange)
 ![Excel](https://img.shields.io/badge/Excel-Data%20Source-green)
-
-## 📋 Table des Matières
-
-- [Aperçu du Projet](#aperçu-du-projet)
-- [Stack Technologique](#stack-technologique)
-- [Structure du Pipeline](#structure-du-pipeline)
-- [Résultats Clés](#résultats-clés)
-- [Installation et Exécution](#installation-et-exécution)
-- [Documentation Détaillée](#documentation-détaillée)
 
 ## Aperçu du Projet
 
